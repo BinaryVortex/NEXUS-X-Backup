@@ -8,7 +8,7 @@ Check out the live version here: [NEXUS-X](https://binaryvortex.github.io/NEXUS-
 
 ## Screenshot
 
-![NEXUS-X Screenshot](Screenshot%202024-07-13%20220330.png)
+![NEXUS-X Screenshot](Screenshot 2024-07-29 214701.png)
 
 ## Features
 
