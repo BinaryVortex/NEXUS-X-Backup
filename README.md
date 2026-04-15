@@ -1,6 +1,6 @@
 # NEXUS-X
 
-NEXUS-X is a curated collection of interactive web animations, games, and mini-applications built entirely with HTML, CSS, and JavaScript. It serves as a showcase and hub for various creative projects, hosted on GitHub Pages.
+NEXUS-X is a curated collection of interactive web animations, games, and mini-applications built entirely with HTML, CSS, and JavaScript. It serves as a showcase and hub for various creative proje[...]  
 
 ## Live Demo
 
@@ -8,7 +8,7 @@ Check out the live version here: [NEXUS-X](https://binaryvortex.github.io/NEXUS-
 
 ## Screenshot
 
-![NEXUS-X Screenshot](Screenshot 2024-07-29 214701.png)
+![NEXUS-X Screenshot](https://raw.githubusercontent.com/BinaryVortex/NEXUS-X-Backup/main/Screenshot%202024-07-29%20214701.png)
 
 ## Features
 
